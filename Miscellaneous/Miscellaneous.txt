@@ -1,4 +1,4 @@
-Updated code moved to only Develop environment
+Updated code moved to only UAT environment
 
 miscellaneous
 
