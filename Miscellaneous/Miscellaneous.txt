@@ -1,1 +1,6 @@
 miscellaneous
+
+Added new code based on team review 
+
+Added comments for each function 
+
